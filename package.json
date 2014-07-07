@@ -1,0 +1,29 @@
+{
+  "name": "tessel-button",
+  "version": "0.0.1",
+  "description": "API to provide more feedback / options to the single tessel 'config' button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nw/tessel-button.git"
+  },
+  "keywords": [
+    "tessel",
+    "config",
+    "button"
+  ],
+  "author": "Nathan White <_@nw.is>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nw/tessel-button/issues"
+  },
+  "homepage": "https://github.com/nw/tessel-button",
+  "dependencies": {},
+  "hardware": {
+    "./README.md": false,
+    "./example.js": false
+  }
+}
