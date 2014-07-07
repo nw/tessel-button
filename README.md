@@ -39,6 +39,8 @@ A tiny ~2kb library to provide higher level events allowing advanced options via
 
 ### Visual Feedback
 
+<iframe width="854" height="510" src="//www.youtube.com/embed/c__uCQW3_iM" frameborder="0" allowfullscreen></iframe>
+
 You should see the pattern.
 
 <table>
